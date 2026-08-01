@@ -4,9 +4,9 @@
 
 **Segmento:** Clínica odontológica (dentista)
 **Entrega:** Site institucional
-**Domínio/hospedagem:** pendente — o link inicial (eve-chat-template-drab-five.vercel.app)
-era deploy de um template errado (chatbot, não site). Repositório real e/ou
-domínio próprio ainda por definir.
+**Domínio/hospedagem:** pendente — desvinculado do domínio eve-chat-template-drab-five.vercel.app
+(pertencia a um template errado, chatbot, não site). Deploy será feito em
+projeto novo e próprio na Vercel, domínio ainda por definir.
 
 **Seções do site:** todas (site completo) — com base nos serviços/ícones já
 levantados no design-guide:
