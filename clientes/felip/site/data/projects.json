@@ -8,7 +8,7 @@
           "id": "studio-caiaque",
           "name": "Studio Caiaque",
           "link": "https://www.behance.net/gallery/246792727/Studio-Caiaque",
-          "image": "assets/img/studio-caiaque-capa.jpg"
+          "image": "assets/img/cases/identidade-studio-caiaque.jpg"
         },
         {
           "id": "cafe-momentos",
@@ -54,7 +54,7 @@
         },
         {
           "id": "academia",
-          "name": "Academia",
+          "name": "Academia 2.0",
           "link": "https://www.behance.net/gallery/238317147/Academia-Social-Media",
           "image": "assets/img/academia-capa.jpg"
         }
@@ -63,14 +63,7 @@
     {
       "key": "motion-design-teste",
       "label": "Motion Design TESTE",
-      "items": [
-        {
-          "id": "case-teste-categoria",
-          "name": "Case Teste Categoria EDITADO",
-          "link": "https://example.com/editado",
-          "image": "assets/img/cases/motion-design-teste-case-teste-categoria.jpg"
-        }
-      ]
+      "items": []
     }
   ]
 }
